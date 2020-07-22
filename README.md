@@ -21,3 +21,14 @@ Untuk memulai, Anda akan memerlukan Messenger, Halaman Facebook, dan URL sebagai
 Berikut ini panduan langkah demi langkah untuk menjalankan pengalaman di atas di halaman tes Anda untuk memulai.
 
 [Mengobrol dengan kami](https://m.me/tikakripik.?ref=DEVDOCS)
+
+# Bagaimana cara memulai?
+
+
+Anda dapat memulai dengan membuat halaman tes dan aplikasi tes yang memungkinkan Anda mencoba pengalaman Anda di dalam Messenger. Kami punya beberapa contoh yang bisa membantu Anda memulai. Setelah aplikasi Anda siap dijalankan, Anda dapat mengirimkannya untuk ditinjau. Saat lulus dari proses peninjauan kami, aplikasi Anda siap untuk berinteraksi dengan publik.
+
+Untuk memulai, Anda akan memerlukan Messenger, Halaman Facebook, dan URL sebagai tujuan pengiriman webhook.
+
+Berikut ini panduan langkah demi langkah untuk menjalankan pengalaman di atas di halaman tes Anda untuk memulai.
+
+[Mulai](https://developers.facebook.com/docs/messenger-platform/getting-started)
