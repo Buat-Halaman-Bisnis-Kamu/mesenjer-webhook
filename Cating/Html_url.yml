@@ -1,0 +1,8 @@
+{
+  "home_url" : {
+     "url": "<URL_FOR_CHAT_EXTENSION>",
+     "webview_height_ratio": "tall",
+     "webview_share_button": "show",
+     "in_test":true
+  }
+}
