@@ -1,3 +1,3 @@
 {
-  "account_linking_url":"<YOUR_ACCOUNT_LINKING_URL>"
+  "account_linking_url":"<https://m.me/tikakripik.tikakripik>"
 }
