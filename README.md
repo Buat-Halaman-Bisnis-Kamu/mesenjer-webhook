@@ -32,6 +32,9 @@ Berikut ini panduan langkah demi langkah untuk menjalankan pengalaman di atas di
 
 # Bagaimana cara memulai?
 
+Iklan 000websire
+
+<br/><head><script data-ad-client="ca-pub-7201802427887817" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><head/><br/>
 
 Anda dapat memulai dengan membuat halaman tes dan aplikasi tes yang memungkinkan Anda mencoba pengalaman Anda di dalam Messenger. Kami punya beberapa contoh yang bisa membantu Anda memulai. Setelah aplikasi Anda siap dijalankan, Anda dapat mengirimkannya untuk ditinjau. Saat lulus dari proses peninjauan kami, aplikasi Anda siap untuk berinteraksi dengan publik.
 
