@@ -36,3 +36,7 @@ Untuk memulai, Anda akan memerlukan Messenger, Halaman Facebook, dan URL sebagai
 Berikut ini panduan langkah demi langkah untuk menjalankan pengalaman di atas di halaman tes Anda untuk memulai.
 
 [Mulai](https://developers.facebook.com/docs/messenger-platform/getting-started)
+
+# Kebijakan & cokie
+
+- [Cokie](https://www.facebook.com/help/cookies)
