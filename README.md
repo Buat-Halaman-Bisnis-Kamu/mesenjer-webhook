@@ -4,6 +4,10 @@
 
 # Pendahuluan Platform Messenger
 
+*Gabung dengan forum Messenger untuk melakukan obrolan video (tidak perlu akun):*
+
+[Mulai Video](https://msngr.com/3XDDyHuhZ3_ZgIbQ?funnel_session_id=_ab128ee6-7931-476d-9c8f-c6f4cf119473)
+
 *Bagaimana cara kerja Platform Messenger?*
 
 Saat seseorang mengirimkan pesan kepada pelaku bisnis di Messenger dan selama Halaman ini menggunakan aplikasi untuk secara sebagian atau sepenuhnya mengotomatiskan percakapan, hal berikut akan terjadi. Server Facebook mengirimkan webhook ke URL server bisnis Anda, tempat aplikasi berkirim pesan Anda di-hosting. Menggunakan API Kirim, aplikasi dapat berkorespondensi dengan orang itu di Messenger. Dengan cara ini, developer dapat membangun percakapan terpandu untuk membawa orang melalui sebuah alur otomatis atau membuat aplikasi sebagai jembatan antara agen Anda dan eksistensi bisnis Anda di Messenger.
